@@ -1,0 +1,2 @@
+# UITextViewTextMaxLength
+对于UITextView、UITextField文本限制长度输入进行一层封装，解决输入中文时字数统计异常问题
